@@ -1,0 +1,4 @@
+Netflix Python. Ik heb dit gekozen omdat ik het zelf gebruik & het is fascinerend om te zien dat mijn favoriete streaming website is gemaakt
+door Pyhton codering.
+
+https://netflixtechblog.com/python-at-netflix-bba45dae649e
